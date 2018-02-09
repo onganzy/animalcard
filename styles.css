@@ -1,0 +1,35 @@
+body{
+	background-color: #fff;
+
+}
+img{
+	width: 300px;
+	height: 200px;
+}
+
+.content{
+	background-color: #fff;
+	margin: 0 auto;
+	padding: 20px 15px;
+	width: 300px;
+		
+	border:1px solid #eee;
+	box-shadow: 15px 15px 10px #eee;
+}
+
+.text{
+	border: 1px solid #eee;
+    padding: 20px 10px;
+}
+
+.m1{
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+}
+
+span{
+	font-weight: bold;
+}
